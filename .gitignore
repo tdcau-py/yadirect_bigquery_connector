@@ -1,3 +1,6 @@
 # ignore files
-.env
 poetry.lock
+yadirect_bigquery_connector/.env
+yadirect_bigquery_connector/braided-tracker-408113-cdf2eba3dbf1.json
+
+.idea
